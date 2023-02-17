@@ -1,5 +1,6 @@
 ### Hi there 👋
- <img src="https://img.shields.io/badge/Unity-3178C6?style=flat&logo=Unity&logoColor=white"/>
+
+ <img src="https://img.shields.io/badge/Unity-#7E4DD2?style=flat&logo=Unity&logoColor=black"/>
 
 <!--
 **nilbace/nilbace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
