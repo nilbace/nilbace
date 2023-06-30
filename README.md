@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=김진태&fontSize=70)
 
-### Hi there 👋
+### 안녕하세요 홍익대학교
+
+
+김진태입니다
 
 <img src="https://img.shields.io/badge/Unity-61DAFB?style=flat&logo=Unity&logoColor=white"/>
 
