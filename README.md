@@ -1,9 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=김진태&fontSize=70)
 
-### 안녕하세요 홍익대학교
+### 안녕하세요
+홍익대학교 19학번 컴퓨터공학과 재학중
 
+홍익대학교 게임개발 동아리 ExP Make팀 프로그래밍 부장, 회장
 
-김진태입니다
+Unity, C# 개발
 
 <img src="https://img.shields.io/badge/Unity-61DAFB?style=flat&logo=Unity&logoColor=white"/>
 
