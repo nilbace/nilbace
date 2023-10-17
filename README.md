@@ -8,9 +8,9 @@
 # 개발 게임
 
 + 매지컬 오목 / 출시 /Unity, 2D, 멀티플레이 지원, 턴제, 카드, 오목 / [깃허브](https://github.com/nilbace/Oh-MOK) / [유튜브 영상](https://youtu.be/tbGnyxyPQ7c) / [스토어](https://play.google.com/store/apps/details?id=com.ExPStudio.MagicalGomoku)
-+ 알카이아    / 개발중 / Unity, 2D, 스토리 RPG, 액션, 퍼즐 / [깃허브](https://github.com/nilbace/Alkayia)
-+ 판도라      / 개발중 / Unity, 2D, 액션, 플랫포머, 사이버펑크  / [깃허브](https://github.com/nilbace/Project_Pandora)
-+ 야옹지마    / 개발중 / Unity, 2D, 슈팅, 액션 / [깃허브](https://github.com/nilbace/Nyaongjima)
++ 알카이아    / 개발중단 / Unity, 2D, 스토리 RPG, 액션, 퍼즐 / [깃허브](https://github.com/nilbace/Alkayia)
++ 판도라      / 개발중단 / Unity, 2D, 액션, 플랫포머, 사이버펑크  / [깃허브](https://github.com/nilbace/Project_Pandora)
++ 야옹지마    / 출시 / Unity, 2D, 슈팅, 액션 / [깃허브](https://github.com/nilbace/Nyaongjima)
 <img src="https://img.shields.io/badge/Unity-61DAFB?style=flat&logo=Unity&logoColor=white"/>
 
 
