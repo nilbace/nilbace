@@ -4,8 +4,8 @@
 + 🌱 홍익대학교 게임개발 동아리 ExP Make팀 프로그래밍 부서장, 회장
 + 🌱Unity, C# 개발
 
-노션 링크 : [Notion](https://www.notion.so/Game-Client-Programmer-89855183dd7848bb8800edf8a5083472)[/br]
-유튜브 링크 : [YouTube](https://www.youtube.com/@user-iz3rb7fz7i/videos)
+노션 링크 : [Notion](https://www.notion.so/Game-Client-Programmer-89855183dd7848bb8800edf8a5083472)
++ 유튜브 링크 : [YouTube](https://www.youtube.com/@user-iz3rb7fz7i/videos)
 ---
 # 개발 게임
 
